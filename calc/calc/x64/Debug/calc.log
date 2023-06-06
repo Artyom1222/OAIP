@@ -1,0 +1,3 @@
+﻿  calc.cpp
+D:\лабы челикам\бгуір\богдаша\calc\calc\calc.cpp(30,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  calc.vcxproj -> D:\лабы челикам\бгуір\богдаша\calc\x64\Debug\calc.exe
